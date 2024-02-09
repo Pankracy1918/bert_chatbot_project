@@ -1,0 +1,1 @@
+This project is a attempt to use potencial of Bert language model in order to create a functional chatbot wchic will answer philosophical questions. In the second file there is a code responsible for question generation on the basis of Marc Aurelius meditation book.
