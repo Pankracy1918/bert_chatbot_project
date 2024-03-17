@@ -1,1 +1,1 @@
-This project is a attempt to use potencial of Bert language model in order to create a functional chatbot which will answer philosophical questions. In the second file there is a code responsible for question generation on the basis of Marc Aurelius meditation book.
+This project is a attempt to use potencial of Bert language model in order to create a functional chatbot which will answer philosophical questions. First file (good_chatbot_aurelius.ipynb) is In the second file there is a code responsible for question generation on the basis of Marc Aurelius meditation book.
